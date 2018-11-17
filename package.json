@@ -1,0 +1,20 @@
+{
+  "name": "react-hooks-for-drag-and-drop-component",
+  "version": "1.0.0",
+  "description": "My experiment in using react hooks to create a drop and drop component. ",
+  "keywords": ["react", "hooks", "react hooks", "drag and drop", "images"],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "^16.7.0-alpha.0",
+    "react-dom": "^16.7.0-alpha.0",
+    "react-scripts": "2.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}

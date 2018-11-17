@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.drop-area {
+  width: 300px;
+  height: 300px;
+  border: 2px dotted #000;
+}
+
+.drop-area-image {
+  max-width: 300px;
+  max-height: 300px;
+}
+
+.button-wrapper button {
+  background-color: #3498db;
+  color: #fff;
+  padding: 15px 10px;
+  border: 0;
+}
